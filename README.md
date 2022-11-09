@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riiteeshh
-- 👀 I’m interested in android development
+- 👀 I’m interested in android app development
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
