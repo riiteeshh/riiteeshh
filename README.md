@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - https://www.facebook.com/ritesh.pandey.10420
 - https://www.linkedin.com/in/riteshpandey47
-- https://github.com/riiteeshh
+
 
 <!---
 riiteeshh/riiteeshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
