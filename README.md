@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - https://www.facebook.com/ritesh.pandey.10420
 - https://www.linkedin.com/in/riteshpandey47
+- https://www.instagram.com/_riiteeshh_/
 
 
 <!---
